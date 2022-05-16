@@ -35,25 +35,25 @@ let All_song = [
    {
      name: "second song",
      path: "music/2.mp3",
-     img: "img/img2.jpg",
+     img: "img/img1.jpg",
      singer: "2"
    },
    {
      name: "third song",
      path: "music/1.mp3",
-     img: "img/img3.jpg",
+     img: "img/img1.jpg",
      singer: "3"
    },
    {
      name: "fourth song",
      path: "music/2.mp3",
-     img: "img/img4.jpg",
+     img: "img/img1.jpg",
      singer: "4"
    },
    {
      name: "fifth song",
      path: "music/1.mp3",
-     img: "img/img5.jpg",
+     img: "img/img1.jpg",
      singer: "5"
    }
 ];
